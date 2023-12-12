@@ -13,8 +13,10 @@ This repository contains a simple website dedicated to Flamengo, a popular footb
 ## How to View
 To view the website, simply [click here](https://sammsouzaa.github.io/Flamengo-Website/). Alternatively, you can clone the repository and open the `index.html` file in your preferred web browser.
 
+<!--
 ## Screenshots
-Include screenshots of different sections of your website, showcasing its design and layout.
+Include screenshots of the app interface, demonstrating the gameplay and user interactions.
+-->
 
 ## Credits
 - Author: Samuel Moreira de Souza
