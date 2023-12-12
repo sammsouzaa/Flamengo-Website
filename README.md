@@ -17,8 +17,8 @@ To view the website, simply [click here](https://sammsouzaa.github.io/Flamengo-W
 Include screenshots of different sections of your website, showcasing its design and layout.
 
 ## Credits
-- Author: [Your Name]
-- School: [Name of Your High School]
+- Author: Samuel Moreira de Souza
+- School: IFPR - Campus Cascavel
 - Course: Programação para Internet (Web Programming)
 
 Feel free to explore the code and contribute to the project. If you have any suggestions or improvements, don't hesitate to open an issue or submit a pull request!
