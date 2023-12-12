@@ -20,5 +20,3 @@ Include screenshots of different sections of your website, showcasing its design
 - Author: Samuel Moreira de Souza
 - School: IFPR - Campus Cascavel
 - Course: Programação para Internet (Web Programming)
-
-Feel free to explore the code and contribute to the project. If you have any suggestions or improvements, don't hesitate to open an issue or submit a pull request!
